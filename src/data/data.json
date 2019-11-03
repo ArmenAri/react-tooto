@@ -1,0 +1,34 @@
+{
+  "cards": [
+    {
+      "id": 0,
+      "title": "Pas de chance !",
+      "description": "Bois 5 gorgées en cloche pied !",
+      "extra": "Retante ta chance la prochaine fois 😂!"
+    },
+    {
+      "id": 1,
+      "title": "Encore moins de chance !!",
+      "description": "Bois 10 gorgées en cloche pied !",
+      "extra": "Ça fait mal 😱 !"
+    },
+    {
+      "id": 2,
+      "title": "Oula c'est chaud !",
+      "description": "Fais un cul-sec !",
+      "extra": "Ça va exploser 🤯!"
+    },
+    {
+      "id": 3,
+      "title": "Oula c'est chaud !",
+      "description": "Fais un cul-sec !",
+      "extra": "Ça va exploser 🤯!"
+    },
+    {
+      "id": 4,
+      "title": "Oula c'est chaud !",
+      "description": "Fais un cul-sec !",
+      "extra": "Ça va exploser 🤯!"
+    }
+  ]
+}
