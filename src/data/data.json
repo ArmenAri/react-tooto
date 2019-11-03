@@ -4,7 +4,7 @@
       "id": 0,
       "title": "On commence tranquille !",
       "description": "Bois 3 gorgées en cloche pied !",
-      "extra": "Retante ta chance la prochaine fois 😂!"
+      "extra": "Retente ta chance la prochaine fois 😂!"
     },
     {
       "id": 1,
@@ -21,14 +21,56 @@
     {
       "id": 3,
       "title": "Grade ton calme !",
-      "description": "Réponds à une question que les autre se mettent d'accord pour poser ! Si tu veux pas bois 10 gorgées !",
+      "description": "Réponds à une question que les autres se mettent d'accord pour poser ! Si tu veux pas bois 10 gorgées 🥴!",
       "extra": "Tu ne peut pas mentir 🤨!"
     },
     {
       "id": 4,
       "title": "J'adore ce jeu !",
-      "description": "Dis un secret que personne ne sait !",
+      "description": "Dis un secret que personne ne sait ! Sinon bois 5 gorgées !",
+      "extra": "Hmmm 🧐"
+    },
+    {
+      "id": 5,
+      "title": "Call me maybe !",
+      "description": "Appelle un numéro au hasard et tiens la conversation le plus longtemps possible !",
       "extra": "Bonjour comment vas-tu ? 😘"
+    },
+    {
+      "id": 6,
+      "title": "Open bar !",
+      "description": "Bois un cocktail préparé par les autres !",
+      "extra": "C'est bon les cocktails 🍸!"
+    },
+    {
+      "id": 7,
+      "title": "Cheeessee !!!",
+      "description": "Fais toi prendre en photo dans une position définie par les autres",
+      "extra": "Prends bien la pose 🕺!"
+    },
+    {
+      "id": 8,
+      "title": "Recall !",
+      "description": "Appelle une personne inconnue et lui fais dire un mot imposé avant qu'il ne raccroche !",
+      "extra": "Bonjour comment vas-tu @_#$/&? 🤪"
+    },
+    {
+      "id": 9,
+      "title": "À vos pinceaux !",
+      "description": "Fais-toi maquiller !",
+      "extra": "Plus de fond de teint ? 💅🏼"
+    },
+    {
+      "id": 10,
+      "title": "Street poker !",
+      "description": "Enleve un vêtement !",
+      "extra": "Pas les chaussures quand même ! 😋"
+    },
+    {
+      "id": 11,
+      "title": "Ultra street poker !",
+      "description": "Enleve quatre vêtements !",
+      "extra": "Ça commence à être chauuuud ? 🤭"
     }
   ]
 }

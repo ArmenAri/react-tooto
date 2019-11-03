@@ -14,11 +14,28 @@ html, body {
   -webkit-transform: translate(-50%, -50%);
 }
 
-.button {
+.change {
   position: absolute;
   left: 125px;
   top:10px;
   width: 100px;
+  height: 40px;
+  border: none;
+  color: #ffffff;
+  font-size: 30px;
+  background: linear-gradient(rgb(186, 94, 222), rgb(238, 110, 210));
+  box-shadow: 0 8px 16px -8px rgba(0,0,0,0.4);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  margin: 1.5rem;
+}
+
+.re {
+  position: absolute;
+  right: -162px;
+  top:10px;
+  width: 40px;
   height: 40px;
   border: none;
   color: #ffffff;

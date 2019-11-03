@@ -57,7 +57,8 @@ class Screen extends React.Component {
                         </div>
                     </header>
                 </div>
-                <button className="button" onClick={this.changeCards}>→</button>
+                <button className="change" onClick={this.changeCards}>→</button>
+                <button className="re" onClick={() => window.location.reload()}>↩︎</button>
             </div>
         )
     }
