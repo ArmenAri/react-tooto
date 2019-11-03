@@ -2,14 +2,14 @@
   "cards": [
     {
       "id": 0,
-      "title": "Pas de chance !",
-      "description": "Bois 5 gorgées en cloche pied !",
+      "title": "On commence tranquille !",
+      "description": "Bois 3 gorgées en cloche pied !",
       "extra": "Retante ta chance la prochaine fois 😂!"
     },
     {
       "id": 1,
-      "title": "Encore moins de chance !!",
-      "description": "Bois 10 gorgées en cloche pied !",
+      "title": "Tu vas être sec très vite !",
+      "description": "Bois 6 gorgées en courant !",
       "extra": "Ça fait mal 😱 !"
     },
     {
@@ -20,15 +20,15 @@
     },
     {
       "id": 3,
-      "title": "Oula c'est chaud !",
-      "description": "Fais un cul-sec !",
-      "extra": "Ça va exploser 🤯!"
+      "title": "Grade ton calme !",
+      "description": "Réponds à une question que les autre se mettent d'accord pour poser ! Si tu veux pas bois 10 gorgées !",
+      "extra": "Tu ne peut pas mentir 🤨!"
     },
     {
       "id": 4,
-      "title": "Oula c'est chaud !",
-      "description": "Fais un cul-sec !",
-      "extra": "Ça va exploser 🤯!"
+      "title": "J'adore ce jeu !",
+      "description": "Dis un secret que personne ne sait !",
+      "extra": "Bonjour comment vas-tu ? 😘"
     }
   ]
 }

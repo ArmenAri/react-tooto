@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Abel');
+
+html, body {
+  display: flex;
+  flex-wrap: nowrap;
+  background: #FCEEB5;
+  font-family: Abel, Arial, Verdana, sans-serif;
+}
+
+.center {
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+}
+
+.button {
+  position: absolute;
+  left: 125px;
+  top:10px;
+  width: 100px;
+  height: 40px;
+  border: none;
+  color: #ffffff;
+  font-size: 30px;
+  background: linear-gradient(rgb(186, 94, 222), rgb(238, 110, 210));
+  box-shadow: 0 8px 16px -8px rgba(0,0,0,0.4);
+  border-radius: 6px;
+  overflow: hidden;
+  position: relative;
+  margin: 1.5rem;
+}
