@@ -9,7 +9,7 @@ const refactoArray = (e) => {
 
 export const pickRandomData = () => {
     let e
-    if (data_array.length > 1) {
+    if (data_array.length > 0) {
         e = data_array[randInt(data_array.length)]
         data_array = refactoArray(e)
     } else {
